@@ -1,0 +1,1 @@
+The purpose of this repository is to explore git commands and learn git
